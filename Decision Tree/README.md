@@ -12,7 +12,7 @@
 * 训练集准确率: 1.0
 * 测试集准确率: 0.5483870967741935
 * 生成树的形状如下图：
-* ![](E:\code_space\Jupyter\sparse_genotype\file\Decision Tree\README.assets\DecisionTreeV1-16661998481683.svg)
+* ![](src\DecisionTreeV1.svg)
 
 # `第二次训练`
 
