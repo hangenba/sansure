@@ -12,7 +12,7 @@
 * 训练集准确率: 1.0
 * 测试集准确率: 0.5483870967741935
 * 生成树的形状如下图：
-* ![](src\DecisionTreeV1.svg)
+* ![](https://raw.githubusercontent.com/hangenba/sansure/ylh/Decision%20Tree/images/DecisionTreeV1.svg)
 
 # `第二次训练`
 
@@ -24,6 +24,6 @@
 
 * 生成树的形状如下图：
 
-  * ![](src\DecisionTreeV2.svg)
+  * ![](https://raw.githubusercontent.com/hangenba/sansure/ylh/Decision%20Tree/images/DecisionTreeV2.svg)
 
     
