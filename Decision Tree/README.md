@@ -11,8 +11,7 @@
 * 只设置了分类的方式，得到以下结果
 * 训练集准确率: 1.0
 * 测试集准确率: 0.5483870967741935
-* 生成树的形状如下图：
-* ![](https://raw.githubusercontent.com/hangenba/sansure/ylh/Decision%20Tree/images/DecisionTreeV1.svg)
+* 生成树的形状`images\DecisionTreeV1.svg`所示
 
 # `第二次训练`
 
@@ -22,8 +21,6 @@
 
 * 测试集准确率: 0.6451612903225806
 
-* 生成树的形状如下图：
-
-  * ![](https://raw.githubusercontent.com/hangenba/sansure/ylh/Decision%20Tree/images/DecisionTreeV2.svg)
+* 生成树的形状如`images\DecisionTreeV2.svg`所示
 
     
